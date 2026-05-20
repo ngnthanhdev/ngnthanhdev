@@ -1,102 +1,120 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00D8FF,50:7C3AED,100:22C55E&text=Tuan%20Thanh%20Nguyen&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Kai%20Nguyen%20%7C%20Front-end%20Developer&descAlignY=58&descSize=18" alt="Tuan Thanh Nguyen banner" />
-</div>
+<!-- GitHub profile README for ngnthanhdev -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kai+Nguyen;Front-end+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Flutter;I+build+clean+interfaces+with+good+vibes" alt="Typing SVG" />
+  <img width="100%" src="./assets/profile-hero.svg" alt="Tuan Thanh Nguyen - Front-end Developer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ngnthanhdev&style=for-the-badge&color=22c55e" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Front--end-00D8FF?style=for-the-badge" alt="Focus front-end" />
-  <img src="https://img.shields.io/badge/Vibe-Clean%20UI-7C3AED?style=for-the-badge" alt="Clean UI vibe" />
+  <a href="https://github.com/ngnthanhdev">
+    <img src="https://komarev.com/ghpvc/?username=ngnthanhdev&style=flat-square&color=38bdf8" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/badge/Front--end-Developer-38BDF8?style=flat-square&labelColor=0F172A" alt="Front-end Developer" />
+  <img src="https://img.shields.io/badge/Builds-UI%20that%20feels%20good-A78BFA?style=flat-square&labelColor=0F172A" alt="Builds UI that feels good" />
 </p>
 
-<br />
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h2>Hey, I'm Tuan Thanh Nguyen</h2>
+      <p>
+        Also known as <strong>Kai Nguyen</strong>. I'm a front-end developer who likes clean interfaces,
+        reusable components, smooth interactions, and code that stays readable after the deadline dust settles.
+      </p>
+      <p>
+        My main playground is <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>,
+        and <strong>Flutter</strong>. I care about small UI details, performance, layout polish, and building
+        product screens that feel obvious to use.
+      </p>
+    </td>
+    <td width="38%" valign="top" align="center">
+      <img width="230" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-35.gif" alt="Pepe coding mood" />
+      <br />
+      <sub>debugging outside: calm / inside: this</sub>
+    </td>
+  </tr>
+</table>
 
-<img align="right" width="260" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-35.gif" alt="Pepe coding mood" />
-
-## Hello World 👋
-
-I'm **Tuan Thanh Nguyen**, also known as **Kai Nguyen**.
-
-I'm a **Front-end Developer** who enjoys turning ideas into smooth, useful, and good-looking interfaces. I like clean component architecture, thoughtful UI details, and code that future-me will not complain about at 2 AM.
-
-- Currently building with **JavaScript**, **TypeScript**, **React**, and **Flutter**
-- Interested in design systems, animations, mobile-first UI, and performance
-- Always learning better ways to ship products that feel fast, friendly, and polished
-- Debugging style: calm face outside, Pepe energy inside
-
-<br clear="right" />
-
-## Tech Stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,flutter,dart,html,css,sass,tailwind,vite,nodejs,git,github,vscode&perline=7" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,flutter,dart,html,css,sass,tailwind,vite,nodejs,git,github,vscode&perline=7" alt="JavaScript, TypeScript, React, Flutter, Dart, HTML, CSS, Sass, Tailwind, Vite, Node.js, Git, GitHub, VS Code" />
 </p>
 
-## Front-end Toolbox
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=ffffff" alt="Flutter" />
+</p>
+
+## Front-end Signature
 
 ```ts
 const kai = {
   name: "Tuan Thanh Nguyen",
   nickname: "Kai Nguyen",
+  username: "ngnthanhdev",
   role: "Front-end Developer",
-  languages: ["JavaScript", "TypeScript", "Dart"],
-  frameworks: ["React", "Flutter"],
-  likes: ["clean UI", "reusable components", "smooth animations", "good DX"],
-  motto: "Build it simple. Make it feel alive.",
+  core: ["JavaScript", "TypeScript", "React", "Flutter"],
+  caresAbout: [
+    "pixel-aware layouts",
+    "component architecture",
+    "micro-interactions",
+    "fast feedback loops",
+  ],
+  currentMood: "shipping clean UI with playful energy",
 };
 ```
 
-## What I Like Building
+## What I Like To Build
 
 <table>
   <tr>
-    <td width="33%">
-      <h3 align="center">Web Apps</h3>
-      <p align="center">Fast, responsive, component-driven interfaces.</p>
+    <td width="33%" valign="top">
+      <h3>Interface Systems</h3>
+      <p>Reusable components, consistent states, and UI patterns that make products easier to scale.</p>
     </td>
-    <td width="33%">
-      <h3 align="center">Mobile UI</h3>
-      <p align="center">Flutter screens that feel smooth and practical.</p>
+    <td width="33%" valign="top">
+      <h3>Responsive Web Apps</h3>
+      <p>React screens that stay sharp across desktop, tablet, and mobile layouts.</p>
     </td>
-    <td width="33%">
-      <h3 align="center">Creative Details</h3>
-      <p align="center">Tiny interactions, animations, and polished states.</p>
+    <td width="33%" valign="top">
+      <h3>Flutter Experiences</h3>
+      <p>Mobile-first interfaces with smooth navigation, clean widgets, and polished interactions.</p>
     </td>
   </tr>
 </table>
 
-## GitHub Vibes
+## Current Focus
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Currently Focusing</h3>
-      <p align="center">React architecture, TypeScript patterns, Flutter UI, and front-end performance.</p>
+    <td width="50%" valign="top">
+      <h3>Engineering</h3>
+      <ul>
+        <li>Stronger TypeScript patterns</li>
+        <li>Cleaner React architecture</li>
+        <li>Better state and data-flow habits</li>
+      </ul>
     </td>
-    <td width="50%">
-      <h3 align="center">Developer Energy</h3>
-      <p align="center">Ship clean. Refactor kindly. Make the UI feel obvious.</p>
+    <td width="50%" valign="top">
+      <h3>Product Feel</h3>
+      <ul>
+        <li>Motion that helps, not distracts</li>
+        <li>Layouts that scan quickly</li>
+        <li>Interfaces with a little personality</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-## Mood Board
+## Mood
 
 <p align="center">
-  <img width="160" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-31.gif" alt="Pepe matrix" />
-  <img width="160" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-24.gif" alt="Pepe tea" />
-  <img width="160" src="https://i.kym-cdn.com/photos/images/newsfeed/000/971/132/49d.gif" alt="ASCII Pepe" />
+  <img width="155" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-31.gif" alt="Pepe matrix mood" />
+  <img width="155" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-24.gif" alt="Pepe tea mood" />
 </p>
 
-<div align="center">
-  <strong>Thanks for visiting. May your builds pass and your UI never overflow.</strong>
-</div>
-
-<br />
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22C55E,50:00D8FF,100:7C3AED" alt="Footer wave" />
-</div>
+<p align="center">
+  <strong>Clean UI, sharp code, tiny details.</strong>
+</p>
