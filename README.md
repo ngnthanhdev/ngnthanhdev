@@ -22,7 +22,7 @@
       </p>
       <p>
         My main playground is <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>,
-        and <strong>Flutter</strong>. I care about small UI details, performance, layout polish, and building
+        and <strong>React Native, Expo</strong>. I care about small UI details, performance, layout polish, and building
         product screens that feel obvious to use.
       </p>
     </td>
